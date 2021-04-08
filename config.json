@@ -1,0 +1,32 @@
+{
+    "mode": 4,
+    "resolution": {
+        "letterboxing": false,
+        "width": 1920,
+        "height": 1080,
+        "horizontalPosition": 0,
+        "verticalPosition": 0
+    },
+    "decoration": {
+        "leftHanded": false,
+        "rgb": [0, 255, 0],
+        "offsetX": [0, 11],
+        "offsetY": [0, -65],
+        "scalar": [1.0, 1.0]
+    },
+    "osu": {
+        "mouse": true,
+        "paw": [255, 255, 255],
+        "pawEdge": [0, 0, 0],
+        "key1": [81, 87, 65, 82, 49, 50, 51, 52],
+        "key2": [70, 80, 83, 53, 54, 55, 32],
+        "smoke": [115],
+        "wave": [],
+        "toggleSmoke": true
+    },
+    "mania": {
+        "4K": true,
+        "key4K": [82, 83, 78, 85],
+        "key7K": [65, 82, 83, 32, 78, 85, 89]
+    }
+}

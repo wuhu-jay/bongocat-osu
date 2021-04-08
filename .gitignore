@@ -1,0 +1,6 @@
+*.res
+*.exe
+*.o
+bongo
+bin/*
+NOTE
